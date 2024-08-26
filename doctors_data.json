@@ -1,0 +1,411 @@
+{
+  "doctors": 
+[
+ {
+   "Name": "Dr. Homayoun Sheikh",
+   "Specialization": "General Physician, Cardiologist",
+   "Diseases": "Common cold, Influenza, Hypertension, Diabetes, Asthma, Obesity, Allergies, Gastrointestinal issues (e.g., acid reflux, gastritis), Mental health conditions (e.g., depression, anxiety), Musculoskeletal problems (e.g., back pain, arthritis), Coronary artery disease, Hypertension, Heart failure, Arrhythmias, Valvular heart disease, Congenital heart defects, Atherosclerosis, Peripheral artery disease, Heart attack (myocardial infarction), Stroke, Cardiomyopathy, Heart valve disorders, Heart murmurs, High cholesterol, Cardiac arrest, Cardiogenic shock",
+   "Organization": "City Clinic",
+   "Experience": "15 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Shumyla Khan",
+   "Specialization": "General Physician",
+   "Diseases": "Common cold: Runny or stuffy nose, sneezing, sore throat, cough, mild fever. Influenza: Fever, chills, body aches, headache, fatigue, cough, sore throat, runny or stuffy nose. Hypertension: Headache, shortness of breath, nosebleeds, chest pain, dizziness, visual changes. ",
+   "Organization": "Meri Sehat Healthcare Hub",
+   "Experience": "3 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Kashif",
+   "Specialization": "Sexologist, General Physician, Family Medicine",
+   "Diseases": "Sexual Dysfunction, Erectile Dysfunction, Premature Ejaculation, Low Libido, Sexually Transmitted Infections, Reproductive Health Issues, Fertility Problems, Sexual Orientation Issues, Sexual Pain Disorders, Contraception and Family Planning, Hormonal Imbalance, Menopause, Andropause, Pregnancy, Sexually Transmitted Diseases, HIV/AIDS, Genital Herpes, Chlamydia, Gonorrhea, Syphilis, Pelvic Inflammatory Disease, Genital Warts, Trichomoniasis, Hepatitis B, Hepatitis C, Human Papillomavirus (HPV) Infection, Bacterial Vaginosis, Candidiasis, Urinary Tract Infections (UTIs), Vaginal Dryness, Vaginal Discharge, Painful Intercourse, Infertility, Miscarriage, Preconception Care, Prenatal Care, Postnatal Care, Birth Control, Menstrual Disorders, Menstrual Cramps, Menstrual Irregularities, Amenorrhea, Dysmenorrhea, Premenstrual Syndrome (PMS)",
+   "Organization": "",
+   "Experience": "8 Yrs Experience"
+ },
+ {
+   "Name": "Prof. Dr. Ajeet Kumar",
+   "Specialization": "General Physician",
+   "Diseases": "Diabetes: Increased thirst, frequent urination, extreme hunger, unexplained weight loss, fatigue, irritability, blurred vision. Asthma: Shortness of breath, chest tightness or pain, wheezing, coughing. Obesity: Increased body weight, fatigue, breathlessness, joint pain, sleep apnea. Allergies: Runny or stuffy nose, sneezing, itchy or watery eyes, rash, hives, swelling. ",
+   "Organization": "Medicare Cardiac & General Hospital",
+   "Experience": "22 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Rajesh Bansari",
+   "Specialization": "Gastroenterologist, General Physician, Internal Medicine Specialist, Pediatric Gastroenterologist, Hepatologist",
+   "Diseases": "Gastroesophageal Reflux Disease (GERD), Peptic Ulcers, Gastritis, Gastroenteritis, Inflammatory Bowel Disease (IBD), Crohn's Disease, Ulcerative Colitis, Irritable Bowel Syndrome (IBS), Celiac Disease, Diverticulitis, Diverticulosis, Hemorrhoids, Anal Fissures, Anal Fistulas, Anal Abscesses, Anal Itching, Colorectal Cancer, Colon Polyps, Pancreatitis, Gallstones, Gallbladder Disease, Biliary Colic, Cholecystitis, Cholangitis, Acute Pancreatitis, Chronic Pancreatitis, Liver Cirrhosis, Fatty Liver Disease, Hepatitis, Autoimmune Hepatitis, Alcoholic Hepatitis, Viral Hepatitis, Hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E",
+   "Organization": "Cancer Foundation Hospital",
+   "Experience": "12 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Aijaz Ahmed",
+   "Specialization": "General Physician",
+   "Diseases": "Gastrointestinal issues: Indigestion, heartburn, bloating, abdominal pain, nausea, vomiting, diarrhea, constipation. Mental health conditions: Persistent sad, anxious, or \"empty\" mood, fatigue, irritability, restlessness, difficulty concentrating or making decisions, changes in sleep patterns, appetite or weight changes, thoughts of suicide or self-harm. Musculoskeletal problems: Joint pain, stiffness, swelling, redness, decreased range of motion, weakness, muscle cramps, muscle spasms, bone pain, joint instability.",
+   "Organization": "Darul Sehat Hospital",
+   "Experience": "10 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Areeba Rehman",
+   "Specialization": "General Physician",
+   "Diseases": "Common cold, Influenza, Hypertension, Diabetes, Asthma, Obesity, Allergies, Gastrointestinal issues (e.g., acid reflux, gastritis), Mental health conditions (e.g., depression, anxiety), Musculoskeletal problems (e.g., back pain, arthritis)",
+   "Organization": "Allied Specialist Clinics",
+   "Experience": "2 Yrs Experience"
+ },
+ {
+   "Name": "Prof. Dr. Ghulam Ali Mundrawala",
+   "Specialization": "Gastroenterologist, General Physician",
+   "Diseases": "Pancreatic Insufficiency, Pancreatic Neuroendocrine Tumors, Pancreatic Fistulas, Acute Pancreatitis, Chronic Pancreatitis, Pancreatic Cancer, Pancreatic Cysts, Pancreatic Pseudocysts, Pancreatic Insufficiency, Pancreatic Neuroendocrine Tumors, Pancreatic Fistulas, Acute Pancreatitis, Chronic Pancreatitis, Pancreatic Cancer, Pancreatic Cysts, Pancreatic Pseudocysts, Pancreatic Insufficiency, Pancreatic Neuroendocrine Tumors",
+   "Organization": "Anklesaria Hospital",
+   "Experience": "42 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Fatima Siddiqui",
+   "Specialization": "General Physician",
+   "Diseases": "Upper respiratory tract infections (URTI), Influenza, Hypertension, Type 2 diabetes, Asthma, Obesity, Allergic rhinitis, Gastrointestinal disorders (e.g., acid reflux, gastritis), Mood disorders (e.g., depression, anxiety), Musculoskeletal conditions (e.g., back pain, osteoarthritis)",
+   "Organization": "",
+   "Experience": "3 Yrs Experience"
+ },
+ {
+   "Name": "Prof. Dr. Akhtar Memon",
+   "Specialization": "General Physician, Gastroenterologist",
+   "Diseases": "Pancreatic Fistulas, Acute Pancreatitis, Chronic Pancreatitis, Pancreatic Cancer, Pancreatic Cysts, Pancreatic Pseudocysts, Pancreatic Insufficiency, Pancreatic Neuroendocrine Tumors",
+   "Organization": "Hamdard University Hospital",
+   "Experience": "32 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Saba Siddiqui",
+   "Specialization": "General Physician",
+   "Diseases": "Upper respiratory tract infections: Sore throat, cough, runny or stuffy nose, sneezing, fever, fatigue, body aches. Influenza: Fever, chills, headache, body aches, fatigue, cough, sore throat, runny or stuffy nose. Hypertension: Headache, shortness of breath, nosebleeds, chest pain, dizziness, visual changes. ",
+   "Organization": "Soha Medical & Dental Center",
+   "Experience": "22 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Kulsoom",
+   "Specialization": "Pediatrician",
+   "Diseases": "Acute Respiratory Infections, Pneumonia, Bronchiolitis, Croup, Acute Otitis Media, Pharyngitis, Sinusitis, Influenza, Asthma, Allergic Rhinitis, Chronic Respiratory Diseases, Chronic Obstructive Pulmonary Disease (COPD), Bronchial Asthma, Emphysema, Chronic Bronchitis, Pneumonia, Tuberculosis, Pleurisy, Acute Respiratory Distress Syndrome (ARDS), Lung Abscess, Bronchiectasis, Interstitial Lung Diseases, Pulmonary Fibrosis, Sarcoidosis, Pneumothorax, Hemothorax, Pleural Effusion, Lung Cancer, Pulmonary Embolism",
+   "Organization": "Civil Hospital Karachi",
+   "Experience": ""
+ },
+ {
+   "Name": "Dr. Archana Lakhani",
+   "Specialization": "General Physician",
+   "Diseases": "Type 2 diabetes: Increased thirst, frequent urination, extreme hunger, unexplained weight loss, fatigue, irritability, blurred vision. Asthma: Shortness of breath, chest tightness or pain, wheezing, coughing. Obesity: Increased body weight, fatigue, breathlessness, joint pain, sleep disturbances. Allergic rhinitis: Sneezing, runny or stuffy nose, itchy or watery eyes, nasal congestion, cough, fatigue, headache. ",
+   "Organization": "",
+   "Experience": "1 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Uzma Ambreen",
+   "Specialization": "General Physician",
+   "Diseases": "Gastrointestinal issues: Indigestion, heartburn, bloating, abdominal pain, nausea, vomiting, diarrhea, constipation. Mental health conditions: Persistent sad, anxious, or \"empty\" mood, fatigue, irritability, restlessness, difficulty concentrating or making decisions, changes in sleep patterns, appetite or weight changes, thoughts of suicide or self-harm. Musculoskeletal problems: Joint pain, stiffness, swelling, redness, decreased range of motion, weakness, muscle cramps, muscle spasms, bone pain, joint instability.",
+   "Organization": "",
+   "Experience": "11 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Bushra Shahid",
+   "Specialization": "General Physician, Gastroenterologist",
+   "Diseases": "Pancreatic Fistulas, Acute Pancreatitis, Chronic Pancreatitis, Pancreatic Cancer, Pancreatic Cysts, Pancreatic Pseudocysts, Pancreatic Insufficiency, Pancreatic Neuroendocrine Tumors",
+   "Organization": "Jinnah Post Graduate Medical Centre",
+   "Experience": "4 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Rafat Nasir",
+   "Specialization": "General Physician, Pediatrician, Family Medicine",
+   "Diseases": "Acute Respiratory Infections, Pneumonia, Bronchiolitis, Croup, Acute Otitis Media, Pharyngitis, Sinusitis, Influenza, Asthma, Allergic Rhinitis, Chronic Respiratory Diseases, Chronic Obstructive Pulmonary Disease (COPD), Bronchial Asthma, Emphysema, Chronic Bronchitis, Pneumonia, Tuberculosis, Pleurisy, Acute Respiratory Distress Syndrome (ARDS), Lung Abscess",
+   "Organization": "Metropolis Health Clinics",
+   "Experience": "36 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Rais Burni",
+   "Specialization": "Bariatric / Weight Loss Surgeon",
+   "Diseases": "Obesity, Type 2 Diabetes, Hypertension, High Cholesterol, Heart Disease, Stroke, Sleep Apnea, Asthma, Gallbladder Disease, Fatty Liver Disease, Gastroesophageal Reflux Disease (GERD), Osteoarthritis, Joint Pain, Back Pain, Gout, Polycystic Ovarian Syndrome (PCOS), Infertility, Pregnancy Complications, Erectile Dysfunction, Urinary Incontinence, Stress Urinary Incontinence, Depression, Anxiety, Low Self-Esteem, Social Isolation, Body Image Issues",
+   "Organization": "Saeed Clinic",
+   "Experience": "39 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Kamal Ahmed",
+   "Specialization": "General Physician",
+   "Diseases": "Gastrointestinal disorders: Indigestion, heartburn, bloating, abdominal pain, nausea, vomiting, diarrhea, constipation. Mood disorders: Persistent sad, anxious, or \"empty\" mood, fatigue, irritability, restlessness, difficulty concentrating or making decisions, changes in sleep patterns, appetite or weight changes, thoughts of suicide or self-harm.",
+   "Organization": "Habib Medical Centre",
+   "Experience": ""
+ },
+ {
+   "Name": "Dr. Sundus Khalid",
+   "Specialization": "General Physician",
+   "Diseases": "Musculoskeletal conditions: Joint pain, stiffness, swelling, redness, decreased range of motion, weakness, muscle cramps, muscle spasms, bone pain, joint instability.",
+   "Organization": "",
+   "Experience": "3 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Umm E Hafsa",
+   "Specialization": "General Physician",
+   "Diseases": "Upper respiratory tract infections (URTI), Influenza, Hypertension, Type 2 diabetes, Asthma, Obesity, Allergic rhinitis, Gastrointestinal disorders (e.g., acid reflux, gastritis), Mood disorders (e.g., depression, anxiety), Musculoskeletal conditions (e.g., back pain, osteoarthritis)",
+   "Organization": "",
+   "Experience": "2 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Faizan Khalid",
+   "Specialization": "Regenerative Medicine Specialist, General Physician",
+   "Diseases": "Obesity, Type 2 Diabetes, Hypertension, High Cholesterol, Heart Disease, Stroke, Sleep Apnea, Asthma, Gallbladder Disease, Fatty Liver Disease, Gastroesophageal Reflux Disease (GERD), Osteoarthritis, Joint Pain, Back Pain, Gout, Polycystic Ovarian Syndrome (PCOS), Infertility, Pregnancy Complications, Erectile Dysfunction, Urinary Incontinence, Stress Urinary Incontinence, Depression, Anxiety",
+   "Organization": "K-Health Care Hospital",
+   "Experience": "9 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Bhagwan Das",
+   "Specialization": "Endocrinologist, General Physician, Diabetologist",
+   "Diseases": "Diabetes Mellitus (Type 1, Type 2, Gestational), Hypothyroidism, Hyperthyroidism, Thyroid Nodules, Thyroid Cancer, Goiter, Hashimoto's Thyroiditis, Graves' Disease, Adrenal Gland Disorders, Addison's Disease, Cushing's Syndrome, Conn's Syndrome, Pheochromocytoma, Hypopituitarism, Pituitary Tumors, Acromegaly, Gigantism, Cushing's Disease, Prolactinoma, Hypogonadism, Polycystic Ovary Syndrome (PCOS)",
+   "Organization": "",
+   "Experience": "10 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Baldev",
+   "Specialization": "General Physician",
+   "Diseases": "Upper respiratory tract infections: Sore throat, cough, runny or stuffy nose, sneezing, fever, fatigue, body aches. Influenza: Fever, chills, headache, body aches, fatigue, cough, sore throat, runny or stuffy nose. ",
+   "Organization": "",
+   "Experience": ""
+ },
+ {
+   "Name": "Dr. Syed Asif Raza",
+   "Specialization": "General Physician",
+   "Diseases": "Allergic rhinitis: Sneezing, runny or stuffy nose, itchy or watery eyes, nasal congestion, cough, fatigue, headache. Gastrointestinal disorders: Indigestion, heartburn, bloating, abdominal pain, nausea, vomiting, diarrhea, constipation. Mood disorders: Persistent sad, anxious, or \"empty\" mood, fatigue, irritability, restlessness, difficulty concentrating or making decisions, changes in sleep patterns, appetite or weight changes, thoughts of suicide or self-harm.",
+   "Organization": "Rahat Clinic",
+   "Experience": "14 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Nadia Inayat",
+   "Specialization": "General Physician",
+   "Diseases": "Infectious Diseases, Respiratory Infections, Influenza, Pneumonia, Tuberculosis, COVID-19, HIV/AIDS, Hepatitis, Malaria, Dengue Fever, Chikungunya, Zika Virus, Ebola, Typhoid Fever, Cholera, Rabies, Tetanus, Diphtheria, Whooping Cough, Measles, Rubella, Mumps, Chickenpox, Shingles, Polio, Infections, Urinary Tract Infections (UTIs), Kidney Infections, Prostate Infections, Bladder Infections",
+   "Organization": "",
+   "Experience": "15 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Ehsan A Makki",
+   "Specialization": "General Physician, Diabetologist",
+   "Diseases": "Infectious Diseases, Respiratory Infections, Influenza, Pneumonia, Tuberculosis, COVID-19, HIV/AIDS, Hepatitis, Malaria, Dengue Fever, Chikungunya, Zika Virus, Ebola, Typhoid Fever, Cholera, Rabies, Tetanus, Diphtheria, Whooping Cough, Measles, Rubella, Mumps, Chickenpox, Shingles, Polio, Infections, Urinary Tract Infections (UTIs), Kidney Infections",
+   "Organization": "Dr. Makkis Diabetes Center",
+   "Experience": "22 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Syeda Rabia Zehra",
+   "Specialization": "General Physician",
+   "Diseases": "Type 2 diabetes: Increased thirst, frequent urination, extreme hunger, unexplained weight loss, fatigue, irritability, blurred vision. Asthma: Shortness of breath, chest tightness or pain, wheezing, coughing. Obesity: Increased body weight, fatigue, breathlessness, joint pain, sleep disturbances. Allergic rhinitis: Sneezing, runny or stuffy nose, itchy or watery eyes, nasal congestion, cough, fatigue, headache. ",
+   "Organization": "",
+   "Experience": "4 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Muhammad Masroor",
+   "Specialization": "General Physician",
+   "Diseases": "Allergic rhinitis: Sneezing, runny or stuffy nose, itchy or watery eyes, nasal congestion, cough, fatigue, headache. Gastrointestinal disorders: Indigestion, heartburn, bloating, abdominal pain, nausea, vomiting, diarrhea, constipation. Mood disorders: Persistent sad, anxious, or \"empty\" mood, fatigue",
+   "Organization": "Hussain Lakhani Hospital",
+   "Experience": ""
+ },
+ {
+   "Name": "Dr. Faiza",
+   "Specialization": "General Physician",
+   "Diseases": "Upper respiratory tract infections: Sore throat, cough, runny or stuffy nose, sneezing, fever, fatigue, body aches. Influenza: Fever, chills, headache, body aches, fatigue, cough, sore throat, runny or stuffy nose. ",
+   "Organization": "",
+   "Experience": "5 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Ali Mikdad Hassan",
+   "Specialization": "General Physician",
+   "Diseases": "Diabetes: Increased thirst, frequent urination, extreme hunger, unexplained weight loss, fatigue, irritability, blurred vision. Asthma: Shortness of breath, chest tightness or pain, wheezing, coughing. Obesity: Increased body weight, fatigue, breathlessness, joint pain, sleep apnea. Allergies: Runny or stuffy nose, sneezing, itchy or watery eyes, rash, hives, swelling. ",
+   "Organization": "",
+   "Experience": ""
+ },
+ {
+   "Name": "Dr. Beena Khan",
+   "Specialization": "General Physician",
+   "Diseases": "Allergic rhinitis: Sneezing, runny or stuffy nose, itchy or watery eyes, nasal congestion, cough, fatigue, headache. Gastrointestinal disorders: Indigestion, heartburn, bloating, abdominal pain, nausea, vomiting, diarrhea, constipation. Mood disorders: Persistent sad, anxious, or \"empty\" mood, fatigue",
+   "Organization": "",
+   "Experience": "3 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Saadia Aman",
+   "Specialization": "General Physician",
+   "Diseases": "Upper respiratory tract infections: Sore throat, cough, runny or stuffy nose, sneezing, fever, fatigue, body aches. Influenza: Fever, chills, headache, body aches, fatigue, cough, sore throat, runny or stuffy nose.",
+   "Organization": "Kalyana Medical center",
+   "Experience": "2 Yrs Experience"
+ },
+ {
+   "Name": "Prof. Dr. Saera Suhail Kidwai",
+   "Specialization": "Internal Medicine Specialist, General Physician, Rheumatologist, Diabetologist",
+   "Diseases": "Diabetic Foot, Diabetic Ulcers, Diabetic Ketoacidosis (DKA), Hyperosmolar Hyperglycemic State (HHS), Diabetic Neuropathy, Diabetic Retinopathy, Diabetic Nephropathy, Diabetic Foot, Diabetic Ulcers, Diabetic Ketoacidosis (DKA), Hyperosmolar Hyperglycemic State (HHS), Diabetic Neuropathy, Diabetic Retinopathy, Diabetic Nephropathy, Diabetic Foot, Diabetic Ulcers",
+   "Organization": "Metropolis Health Clinics",
+   "Experience": "28 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Rashmina Shoaib",
+   "Specialization": "General Physician",
+   "Diseases": "Common cold, Influenza, Hypertension, Diabetes, Asthma, Obesity, Allergies, Gastrointestinal issues (e.g., acid reflux, gastritis), Mental health conditions (e.g., depression, anxiety), Musculoskeletal problems (e.g., back pain, arthritis), Coronary artery disease, Hypertension, Heart failure, Arrhythmias, Valvular heart disease, Congenital heart defects, Atherosclerosis, Peripheral artery disease, Heart attack (myocardial infarction), Stroke, Cardiomyopathy, Heart valve disorders, Heart murmurs, High cholesterol, Cardiac arrest, Cardiogenic shock",
+   "Organization": "",
+   "Experience": "3 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Kanwal Mobarak",
+   "Specialization": "General Physician",
+   "Diseases": "Asthma: Shortness of breath, chest tightness or pain, wheezing, coughing. Obesity: Increased body weight, fatigue, breathlessness, joint pain, sleep disturbances. Allergic rhinitis: Sneezing, runny or stuffy nose, itchy or watery eyes, nasal congestion, cough, fatigue, headache. Gastrointestinal disorders: Indigestion, heartburn, bloating",
+   "Organization": "OSD SKIN & AESTHETIC CLINIC One Step Diagnostics",
+   "Experience": "10 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Mohammad Aqil",
+   "Specialization": "General Physician",
+   "Diseases": "Gastrointestinal disorders: Indigestion, heartburn, bloating, abdominal pain, nausea, vomiting, diarrhea, constipation. Mood disorders: Persistent sad, anxious, or \"empty\" mood, fatigue, irritability, restlessness, difficulty concentrating or making decisions, changes in sleep patterns, appetite or weight changes, thoughts of suicide or self-harm.",
+   "Organization": "",
+   "Experience": "11 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Kholod Shafi",
+   "Specialization": "General Physician, Clinical Nutritionist",
+   "Diseases": "Diabetes Mellitus (Type 1, Type 2, Gestational Diabetes), Hypoglycemia, Hyperglycemia, Diabetic Ketoacidosis (DKA), Hyperosmolar Hyperglycemic State (HHS), Diabetic Neuropathy, Diabetic Retinopathy, Diabetic Nephropathy, Diabetic Foot, Diabetic Ulcers, Diabetic Ketoacidosis (DKA), Hyperosmolar Hyperglycemic State (HHS), Diabetic Neuropathy, Diabetic Retinopathy, Diabetic Nephropathy, Diabetic Foot, Diabetic Ulcers, Diabetic Ketoacidosis (DKA)",
+   "Organization": "WH Health and Dental Clinic",
+   "Experience": "22 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Zain Aslam Arain",
+   "Specialization": "General Physician, Eye Specialist",
+   "Diseases": "Obesity, Metabolic Syndrome, Type 2 Diabetes, Cardiovascular Disease, Hypertension, High Cholesterol, Heart Disease, Stroke, Sleep Apnea, Asthma, Gallbladder Disease, Fatty Liver Disease, Gastroesophageal Reflux Disease (GERD), Osteoarthritis, Joint Pain, Back Pain, Gout, Polycystic Ovarian Syndrome (PCOS), Infertility, Pregnancy Complications, Erectile Dysfunction, Urinary Incontinence, Stress Urinary Incontinence, Depression, Anxiety, Low Self-Esteem, Social Isolation, Body Image Issues, Discrimination, Poor Quality of Life, Decreased Mobility",
+   "Organization": "",
+   "Experience": "10 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Razia Rehan",
+   "Specialization": "General Physician",
+   "Diseases": "Common cold, Influenza, Hypertension, Diabetes, Asthma, Obesity, Allergies, Gastrointestinal issues (e.g., acid reflux, gastritis), Mental health conditions (e.g., depression, anxiety), Musculoskeletal problems (e.g., back pain, arthritis), Coronary artery disease, Hypertension, Heart failure, Arrhythmias, Valvular heart disease, Congenital heart defects, Atherosclerosis, Peripheral artery disease, Heart attack (myocardial infarction), Stroke, Cardiomyopathy, Heart valve disorders, Heart murmurs, High cholesterol, Cardiac arrest, Cardiogenic shock",
+   "Organization": "Women Care & Poly Clinic",
+   "Experience": "29 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Samina Khalid",
+   "Specialization": "General Physician",
+   "Diseases": "Allergic rhinitis: Sneezing, runny or stuffy nose, itchy or watery eyes, nasal congestion, cough, fatigue, headache. Gastrointestinal disorders: Indigestion, heartburn, bloating, abdominal pain, nausea, vomiting, diarrhea, constipation. Mood disorders: Persistent sad, anxious, or \"empty\" mood, fatigue, irritability, restlessness, difficulty concentrating or making decisions, changes in sleep patterns, appetite or weight changes, thoughts of suicide or self-harm.",
+   "Organization": "Dha Medical Center",
+   "Experience": "34 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Reema Sajjad",
+   "Specialization": "General Physician",
+   "Diseases": "Infectious Diseases (e.g., Influenza, Tuberculosis, HIV/AIDS, Malaria, Dengue, Hepatitis, etc.), Chronic Diseases (e.g., Diabetes, Hypertension, Chronic Kidney Disease, Heart Disease, etc.), Respiratory Diseases (e.g., Asthma, Chronic Obstructive Pulmonary Disease, Pneumonia, etc.)",
+   "Organization": "Taj Specialist Clinic",
+   "Experience": "14 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Ahmed Iqbal Mirza",
+   "Specialization": "General Physician",
+   "Diseases": "Common cold, Influenza, Hypertension, Diabetes, Asthma, Obesity, Allergies, Gastrointestinal issues (e.g., acid reflux, gastritis), Mental health conditions (e.g., depression, anxiety), Musculoskeletal problems (e.g., back pain, arthritis), Coronary artery disease, Hypertension, Heart failure, Arrhythmias, Valvular heart disease, Congenital heart defects, Atherosclerosis, Peripheral artery disease, Heart attack (myocardial infarction), Stroke, Cardiomyopathy, Heart valve disorders, Heart murmurs, High cholesterol, Cardiac arrest, Cardiogenic shock",
+   "Organization": "Medilink Consultant Clinics (K)",
+   "Experience": ""
+ },
+ {
+   "Name": "Dr. Dania Amir",
+   "Specialization": "General Physician",
+   "Diseases": "Gastrointestinal disorders: Indigestion, heartburn, bloating, abdominal pain, nausea, vomiting, diarrhea, constipation. Mood disorders: Persistent sad, anxious, or \"empty\" mood, fatigue, irritability, restlessness, difficulty concentrating or making decisions, changes in sleep patterns, appetite or weight changes, thoughts of suicide or self-harm.",
+   "Organization": "South City Hospital",
+   "Experience": "14 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Minhaj A Qidwai",
+   "Specialization": "General Physician",
+   "Diseases": "Allergic rhinitis: Sneezing, runny or stuffy nose, itchy or watery eyes, nasal congestion, cough, fatigue, headache. Gastrointestinal disorders: Indigestion, heartburn, bloating, abdominal pain, nausea, vomiting, diarrhea, constipation. Mood disorders: Persistent sad, anxious, or \"empty\" mood, fatigue, irritability, restlessness, difficulty concentrating or making decisions, changes in sleep patterns, appetite or weight changes, thoughts of suicide or self-harm.",
+   "Organization": "",
+   "Experience": ""
+ },
+ {
+   "Name": "Dr. Shafiq Thahim",
+   "Specialization": "General Physician",
+   "Diseases": "Common cold, Influenza, Hypertension, Diabetes, Asthma, Obesity, Allergies, Gastrointestinal issues (e.g., acid reflux, gastritis), Mental health conditions (e.g., depression, anxiety), Musculoskeletal problems (e.g., back pain, arthritis), Coronary artery disease, Hypertension, Heart failure, Arrhythmias, Valvular heart disease, Congenital heart defects, Atherosclerosis, Peripheral artery disease, Heart attack (myocardial infarction), Stroke, Cardiomyopathy, Heart valve disorders, Heart murmurs, High cholesterol, Cardiac arrest, Cardiogenic shock",
+   "Organization": "Health Vision Hospital",
+   "Experience": "25 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Fazal Mehmood",
+   "Specialization": "General Physician",
+   "Diseases": "Asthma: Shortness of breath, chest tightness or pain, wheezing, coughing. Obesity: Increased body weight, fatigue, breathlessness, joint pain, sleep disturbances. Allergic rhinitis: Sneezing, runny or stuffy nose, itchy or watery eyes, nasal congestion, cough, fatigue, headache. Gastrointestinal disorders: Indigestion, heartburn, bloating",
+   "Organization": "Healthline Medical Center",
+   "Experience": "9 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Bushra Qamar",
+   "Specialization": "Gynecologist",
+   "Diseases": "Vaginal Infections (e.g., Bacterial Vaginosis, Yeast Infection, Trichomoniasis, etc.), Polycystic Ovary Syndrome (PCOS), Cervical Cancer, Ovarian Cancer, Uterine Fibroids, Pelvic Organ Prolapse",
+   "Organization": "",
+   "Experience": "12 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Sardar Shah Zaman",
+   "Specialization": "General Physician",
+   "Diseases": "Asthma: Shortness of breath, chest tightness or pain, wheezing, coughing. Obesity: Increased body weight, fatigue, breathlessness, joint pain, sleep disturbances. Allergic rhinitis: Sneezing, runny or stuffy nose, itchy or watery eyes, nasal congestion, cough, fatigue, headache. Gastrointestinal disorders: Indigestion, heartburn, bloating",
+   "Organization": "Yashfeen Medical Centre",
+   "Experience": ""
+ },
+ {
+   "Name": "Dr. Muhammad Yasin",
+   "Specialization": "General Physician",
+   "Diseases": "Gastrointestinal disorders: Indigestion, heartburn, bloating, abdominal pain, nausea, vomiting, diarrhea, constipation. Mood disorders: Persistent sad, anxious, or \"empty\" mood, fatigue, irritability, restlessness, difficulty concentrating or making decisions, changes in sleep patterns, appetite or weight changes, thoughts of suicide or self-harm.",
+   "Organization": "Noor Medical Centre & Pharmacy",
+   "Experience": "7 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Sameen Javed",
+   "Specialization": "Gynecologist",
+   "Diseases": "Menstrual Disorders (e.g., Dysmenorrhea, Menorrhagia, Amenorrhea, etc.)",
+   "Organization": "",
+   "Experience": ""
+ },
+ {
+   "Name": "Dr. Areej Zehra",
+   "Specialization": "General Physician",
+   "Diseases": "Asthma: Shortness of breath, chest tightness or pain, wheezing, coughing. Obesity: Increased body weight, fatigue, breathlessness, joint pain, sleep disturbances. Allergic rhinitis: Sneezing, runny or stuffy nose, itchy or watery eyes, nasal congestion, cough, fatigue, headache. Gastrointestinal disorders: Indigestion, heartburn, bloating",
+   "Organization": "",
+   "Experience": "15 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Nadia Syed",
+   "Specialization": "General Physician, Family Medicine",
+   "Diseases": "Common cold, Influenza, Hypertension, Diabetes, Asthma, Obesity, Allergies, Gastrointestinal issues (e.g., acid reflux, gastritis), Mental health conditions (e.g., depression, anxiety), Musculoskeletal problems (e.g., back pain, arthritis), Coronary artery disease, Hypertension, Heart failure, Arrhythmias, Valvular heart disease, Congenital heart defects, Atherosclerosis, Peripheral artery disease, Heart attack (myocardial infarction), Stroke, Cardiomyopathy, Heart valve disorders, Heart murmurs, High cholesterol, Cardiac arrest, Cardiogenic shock",
+   "Organization": "Metropolis Health Clinics",
+   "Experience": "20 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Naveed Ahmed Sheikh",
+   "Specialization": "Cardiologist, Family Medicine, General Physician, Internal Medicine Specialist",
+   "Diseases": "Musculoskeletal conditions: Joint pain, stiffness, swelling, redness, decreased range of motion, weakness, muscle cramps, muscle spasms, bone pain, joint instability.",
+   "Organization": "",
+   "Experience": ""
+ },
+ {
+   "Name": "Dr. Farooq Anjum",
+   "Specialization": "General Physician",
+   "Diseases": "Common cold, Influenza, Hypertension, Diabetes, Asthma, Obesity, Allergies, Gastrointestinal issues (e.g., acid reflux, gastritis), Mental health conditions (e.g., depression, anxiety), Musculoskeletal problems (e.g., back pain, arthritis), Coronary artery disease, Hypertension, Heart failure, Arrhythmias, Valvular heart disease, Congenital heart defects, Atherosclerosis, Peripheral artery disease, Heart attack (myocardial infarction), Stroke, Cardiomyopathy, Heart valve disorders, Heart murmurs, High cholesterol, Cardiac arrest, Cardiogenic shock",
+   "Organization": "",
+   "Experience": "6 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Capt R Arshad Ahmed Kazi",
+   "Specialization": "General Physician",
+   "Diseases": "Asthma: Shortness of breath, chest tightness or pain, wheezing, coughing. Obesity: Increased body weight, fatigue, breathlessness, joint pain, sleep disturbances. Allergic rhinitis: Sneezing, runny or stuffy nose, itchy or watery eyes, nasal congestion, cough, fatigue, headache. Gastrointestinal disorders: Indigestion, heartburn, bloating",
+   "Organization": "Emaar Ocean front",
+   "Experience": "43 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Hajra Haris",
+   "Specialization": "General Physician, Internal Medicine Specialist",
+   "Diseases": "Common cold, Influenza, Hypertension, Diabetes, Asthma, Obesity, Allergies, Gastrointestinal issues (e.g., acid reflux, gastritis), Mental health conditions (e.g., depression, anxiety), Musculoskeletal problems (e.g., back pain, arthritis), Coronary artery disease, Hypertension, Heart failure, Arrhythmias, Valvular heart disease, Congenital heart defects, Atherosclerosis, Peripheral artery disease, Heart attack (myocardial infarction), Stroke, Cardiomyopathy, Heart valve disorders, Heart murmurs, High cholesterol, Cardiac arrest, Cardiogenic shock",
+   "Organization": "Ayesha Health Care Centre",
+   "Experience": "13 Yrs Experience"
+ },
+ {
+   "Name": "Dr. Nadia Aziz Ather",
+   "Specialization": "General Physician",
+   "Diseases": "Common cold, Influenza, Hypertension, Diabetes, Asthma, Obesity, Allergies, Gastrointestinal issues (e.g., acid reflux, gastritis), Mental health conditions (e.g., depression, anxiety), Musculoskeletal problems (e.g., back pain, arthritis), Coronary artery disease, Hypertension, Heart failure, Arrhythmias, Valvular heart disease, Congenital heart defects, Atherosclerosis, Peripheral artery disease, Heart attack (myocardial infarction), Stroke, Cardiomyopathy, Heart valve disorders, Heart murmurs, High cholesterol, Cardiac arrest, Cardiogenic shock",
+   "Organization": "Altamash General Hospital",
+   "Experience": ""
+ },
+ {
+   "Name": "Dr. Aakash Parwani",
+   "Specialization": "General Practitioner, General Physician",
+   "Diseases": "Infectious Diseases (e.g., Influenza, Tuberculosis, HIV/AIDS, Malaria, Dengue, Hepatitis, etc.)",
+   "Organization": "",
+   "Experience": "3 Yrs Experience"
+ }
+]
+}
